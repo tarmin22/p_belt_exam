@@ -1,0 +1,43 @@
+* {
+    outline: 2px red;
+    margin:0;
+    padding:0;
+}
+.fav_book{
+    width:300px;
+    display:inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+    display:inline-block;
+    vertical-align: top;
+    margin-top:30px;
+}
+.desc{
+    height: 100px;
+}
+.org_list{
+    display:inline-block;
+    vertical-align: top;
+    width:400px;
+    margin-left: 200px;
+    margin-top:30px;
+
+
+}
+.welcome_h{
+    display:inline-block;
+    vertical-align: center;
+    
+}
+.logout{
+    margin-left:400px;
+}
+.welcome{
+    border-bottom: solid 3px grey;
+    margin-top:20px;
+}
+.m1{
+    margin:0;
+}
+
+

@@ -1,0 +1,56 @@
+* {
+    outline: 2px red;
+    margin:0;
+    padding:0;
+}
+
+h4 {
+    
+    width: 300px;
+    display:block;
+
+
+}
+.mes{
+    /* border: 3px black solid;
+    background-color:rgb(13, 83, 13);
+    color: white;
+    text-align: center; */
+    width: 400px;
+}
+
+.welcome{
+    display:inline-block;
+    vertical-align: center;
+}
+.c_org{
+    margin-left:20px;
+    display:inline-block;
+    vertical-align: center;
+}
+h4 {
+    
+    display:inline-block;
+    vertical-align: center;
+}
+.info{
+    margin-left:  30px;
+    margin-top: 50px;
+}
+.welcome_h{
+    width: 700px;
+
+}
+a {
+    margin-left: 30px;
+}
+
+.info2{
+    border: solid grey 3px;
+    margin-left: 20px;
+    overflow: auto;
+    width: 300px;
+}
+.dash{
+    margin-left: 600px;
+}

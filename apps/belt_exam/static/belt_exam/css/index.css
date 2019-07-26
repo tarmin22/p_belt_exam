@@ -1,0 +1,45 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: red 2px;
+
+   
+}
+
+.container {
+    height: 800px;
+    width: 970px;
+    /* display: inline-block;
+    vertical-align: top; */
+    margin-top: 50px;
+    padding: 20px;
+    background-color: rgb(185, 185, 185);
+}
+
+form {
+    display: block;
+}
+.mes{
+    border: 3px black solid;
+    background-color: red;
+    color: white;
+    text-align: center;
+    width: 700px;
+}
+.register{
+    width:300px;
+    display:inline-block;
+    vertical-align: top;
+    margin-left: 100px;
+}
+.login{
+    width:300px;
+    display:inline-block;
+    vertical-align: top;
+    margin-left: 150px;
+}
+.register_t{
+    margin-left: 100px;
+}
